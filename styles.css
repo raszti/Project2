@@ -1,0 +1,30 @@
+.card{
+  width: 300px;
+  height: 100%;
+  box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.1);
+}
+.bordered {
+  border: 1px #d3d3d3 solid;
+  padding: 10px;
+}
+.interesting-fact{
+  margin-top: 0px;
+  font-style: italic;
+}
+.list{
+  list-style: none;
+  padding-left: 0px;
+}
+span{
+  font-weight: bold;
+}
+img{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+h3{
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 150%;
+}
